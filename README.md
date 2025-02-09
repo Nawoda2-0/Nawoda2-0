@@ -24,6 +24,7 @@
 <br>
 <br>
 <br>
+<br>
 <hr/>
 
 <h3 align="center">Connect with me:</h3>
@@ -34,7 +35,6 @@
 <a href="https://www.hackerrank.com/@sunethsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arjunsingh10" height="30" width="40" /></a>
 </p>
 
-<br>
 <hr/>
 
 <h3 align="center">Languages and Tools:</h3>
