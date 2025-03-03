@@ -15,7 +15,6 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Computer Science
 - 💬 Ask me about Java
--  ⚡ Fun fact: I never thought I would become a .net programmer!
 - 📫 nawodasilva2001@gmail.com
 
 <br>
