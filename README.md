@@ -4,10 +4,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=248334&width=370&height=100&lines=Hi+%2C+I'm+Suneth Silva+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">CTRL + C creativity, CTRL + V skills 😎 </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsingh27&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsingh27" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsingh27&label=Profile%20views&color=0e75b6&style=flat" alt="Suneth" /> </p>
 <hr>
 
-<img align="right" alt="coding" width="300px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG92cXE2N3NraGtvM250bjRpZjZ2bDVxcDcxZ25panpvZDc3OTFldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
+<img align="right" alt="coding" width="400px" src="https://media1.tenor.com/m/WBcY8E7vVCoAAAAd/monkey-computer-not-working.gif">
 
 
 
