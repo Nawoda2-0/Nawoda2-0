@@ -1,7 +1,7 @@
 ![logo](https://github.com/Nawoda2-0/Nawoda2-0/blob/main/githubCover.jpg?raw=true)
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=248334&width=370&height=100&lines=Hi+%2C+I'm+Suneth Silva+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?
 </p>
 <h3 align="center">CTRL + C creativity, CTRL + V skills 😎 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsingh27&label=Profile%20views&color=0e75b6&style=flat" alt="Suneth" /> </p>
