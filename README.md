@@ -26,7 +26,8 @@
 ## 🚀 About Me
 
 ```typescript
-- 👋 Hi, I’m @Nawoda2-0
+- 👋 Hi, I’m Suneth Nawoda De Silva
+- 🫡 Also known professionally as Suneth Nawoda or Suneth Silva
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Computer Science
 - 💬 Ask me about Java
